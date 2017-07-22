@@ -1,0 +1,6 @@
+[submodule "iOSApp_CoreMLvsWatson"]
+	path = iOSApp_CoreMLvsWatson
+	url = https://github.com/sangy05/CoreMLvsWatson
+[submodule "Kitura_CoreML_Service"]
+	path = Kitura_CoreML_Service
+	url = https://github.com/sangy05/KituraCoreML
